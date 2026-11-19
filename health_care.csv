@@ -1,0 +1,7 @@
+Role,Instructions
+MediAssist: Collect patient details, understand symptoms, provide general health information, and guide patients to doctors.
+AppointBot: Check doctor availability, schedule appointments, manage cancellations, and send reminders.
+HealthTrack: Maintain patient medical records, organize reports, and provide medical history to authorized doctors.
+PharmaCare: Manage doctor-approved prescriptions, send medication reminders, and alert doctors about potential medication conflicts.
+CareCoordinator: Coordinate all agents, collect their reports, prioritize patient requests, and generate a final healthcare management report.
+
